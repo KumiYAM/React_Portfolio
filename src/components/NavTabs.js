@@ -5,7 +5,7 @@ import React from 'react'
 function NavTabs(props) {
     const tabs = ['Home', 'About', 'Project', 'Contact'];
     return (
-      <ul className="nav nav-row">
+      <ul className="nav nav-tabs">
         {tabs.map(tab => (
           <li className="nav-item" key={tab}>
             <a

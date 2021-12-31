@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
-import Home from '../pages/Home';
-import About from '../pages/About';
-import Project from '../pages/Project';
-import Contact from '../pages/Contact';
+import Home from './pages/Home';
+import About from './pages/About';
+import Project from './pages/Project';
+import Contact from './pages/Contact';
 
 function Portfolio() {
   // Using useState, set the default value for currentPage to 'Home'
