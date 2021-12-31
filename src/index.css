@@ -13,7 +13,9 @@ code {
     monospace;
 }
 
-
+ul {
+  float: right;
+}
 ul li a {
   color: black;
 }
@@ -22,6 +24,12 @@ ul li a:hover {
   color: #fce138;
   
 }
+
 li {
   list-style: none;
+}
+
+
+.nav-link :active {
+  color: #fce138;
 }

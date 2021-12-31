@@ -1,10 +1,10 @@
 import React from "react";
 
-const About = () => (
+const Resume = () => (
   <section>
     <h1>KumiYAM</h1>
     <div>
-      <h2>About Me</h2>
+      <h2>Resume</h2>
       <p>
         inibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
         ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam
@@ -15,5 +15,4 @@ const About = () => (
     </div>
   </section>
 );
-
-export default About;
+export default Resume;

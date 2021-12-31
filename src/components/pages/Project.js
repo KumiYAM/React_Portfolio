@@ -1,10 +1,14 @@
 import React from "react";
 
 const Project = () => (
-  <div>
-    <h1>Project Page</h1>
-    <img></img>
-  </div>
+  <section>
+    <h1>KumiYAM</h1>
+    <div>
+      <h2>Project</h2>
+      <img id="aaa" alt="API" />
+      <p>Nudge<br/>API</p>Git
+    </div>
+  </section>
 );
 
 export default Project;
