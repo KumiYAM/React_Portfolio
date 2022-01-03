@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_Pohtrtfolio/static/css/main.26e4fa00.css",
+    "main.js": "/React_Pohtrtfolio/static/js/main.ce4aeaed.js",
+    "static/js/787.0a2000e2.chunk.js": "/React_Pohtrtfolio/static/js/787.0a2000e2.chunk.js",
+    "static/media/cover-image.jpg": "/React_Pohtrtfolio/static/media/cover-image.97e7b1907afbc31812ff.jpg",
+    "static/media/woodpanel_640.jpg": "/React_Pohtrtfolio/static/media/woodpanel_640.49e3035bf8e6394ebd77.jpg",
+    "index.html": "/React_Pohtrtfolio/index.html",
+    "main.26e4fa00.css.map": "/React_Pohtrtfolio/static/css/main.26e4fa00.css.map",
+    "main.ce4aeaed.js.map": "/React_Pohtrtfolio/static/js/main.ce4aeaed.js.map",
+    "787.0a2000e2.chunk.js.map": "/React_Pohtrtfolio/static/js/787.0a2000e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26e4fa00.css",
+    "static/js/main.ce4aeaed.js"
+  ]
+}
