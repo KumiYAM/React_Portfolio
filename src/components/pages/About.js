@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => (
   <section>
-    <h1>KumiYAM</h1>
+    <h1 class="FullName">Kumiko Yamagata</h1>
     <div>
       <h2>About Me</h2>
       <p>
